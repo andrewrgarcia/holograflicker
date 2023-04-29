@@ -2,6 +2,7 @@
 Attempt to recreate a 3-D environment with a rapid flickering 2-D video
 
 ```
+cd frames
 ffmpeg -loop 1 -framerate 144 -i frame%02d.png -t 1 output.mp4
 xdg-open output.mp4
 ```
