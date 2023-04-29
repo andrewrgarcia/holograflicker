@@ -10,5 +10,7 @@ xdg-open output.mp4
 
 This content may contain flashing lights or patterns that may potentially trigger seizures for people with photosensitive epilepsy. Viewer discretion is advised. If you or anyone in your family has a history of epilepsy or seizures, please consult with a medical professional before viewing this content.
 
-https://user-images.githubusercontent.com/10375211/235282822-f6d7b1ed-1cc4-46d7-b9dd-3fc43fd2a809.mp4
+
+
+https://user-images.githubusercontent.com/10375211/235282954-88e9745a-a072-4539-93ca-ac6a5c675ce6.mov
 
